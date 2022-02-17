@@ -3,7 +3,7 @@
 This MyRead project is an app that consists of a book store that connects with an API's that allows you to find books in your browser, you can also save the books in different sections of the bookshelf, such as 'Currenly reading', 'Want to read' and 'Read' and you can also move the books to different shelves and it is saved automatically.
 ## How to start
 
-* git clone https://github.com/Shirley-PH/myReadyApps_succesfully
+* git clone https://github.com/Shirley-PH/myReadsProject
 * git cd MyReads Projects
 
 ## TL;DR
